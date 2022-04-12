@@ -1,5 +1,5 @@
 # observational-mapping
-To display the Project Output file, open the "Whole Foods USA.html" file.
+To display the Project Output HTML file, extract the "Whole Foods USA.rar" file and  open "Whole Foods USA.html".
 A WebMap Project on the spread of population centers in the USA and comparative spread of whole food stores.
 Each dot represents a population centre, hovering on which will display the exact population of that population centre.
 The color scheme of the dots from lighter to darker repsents smaller to larger population centres respectively.
